@@ -1,2 +1,2 @@
 # suplementos
-Api com Vue e Mongo
+Api com Mongo
